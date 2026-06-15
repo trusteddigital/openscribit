@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+paho-mqtt
+Pillow
+opencv-python-headless
+numpy
+pyinstaller
